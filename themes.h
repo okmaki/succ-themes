@@ -1,7 +1,7 @@
 /* theme template */
 
 // static const char *fonts[]		= { "monospace:size=10" };
-// static const char dmenufont[]	= "monospace:size=10" };
+// static const char dmenufont[]	= "monospace:size=10";
 //
 // static const char col_mbar0[]	= "#000000";
 // static const char col_mbar1[]	= "#000000";
@@ -17,7 +17,7 @@
 /* maki */
 
 static const char *fonts[]	= { "monospace:size=10" };
-static const char dmenufont[]	= "monospace:size=10" };
+static const char dmenufont[]	= "monospace:size=10";
 
 static const char col_mbar0[]	= "#2b2b2b";
 static const char col_mbar1[]	= "#f6f6f6";
