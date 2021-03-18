@@ -1,5 +1,5 @@
-static const char *fonts[]	= { "White Rabbit:size=10" };
-static const char dmenufont[]	= "White Rabbit:size=10";
+static const char *fonts[]	= { "Hack Nerd Font Mono:size=10" };
+static const char dmenufont[]	= "Hack Nerd Font Mono:size=10";
 
 // ------------------------------
 // norde 
